@@ -17,3 +17,10 @@ cd build
 cmake ..
 cmake --build .
 ./raycaster
+```
+## Future Improvements
+
+- Textured walls
+- Sprites and entities
+- Map loading from file
+- Basic lighting / shading
